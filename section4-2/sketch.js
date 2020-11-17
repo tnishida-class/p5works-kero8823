@@ -1,6 +1,6 @@
 // テキスト「アニメーション」
 let x, y, vx, vy;
-const g = 1; // 重力加速度
+const g = 0.3; // 重力加速度
 const vyMax = 30;
 
 function setup(){
